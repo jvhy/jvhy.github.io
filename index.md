@@ -4,10 +4,10 @@ layout: default
 
 ## Introduction
 
-<img src="https://www.gleech.org/img/attack.jpg" alt="hacker" width="400"/>  
-I am a third year bachelor student majoring in linguistics in university of Helsinki. I studied English for two years before changing my major to general linguistics. My main interests in the field are Natural Language Processing and semantics. I also study computer science as my minor. Currently, I'm writing my BA thesis about detection of deceptive language. My thesis will be focusing on emotion words and how their usage differs in deceptive and truthful language.
+<img src="https://www.gleech.org/img/attack.jpg" alt="hacker" width="400" title="Picture of me working on this project"/>  
+I am a third year bachelor student majoring in linguistics in University of Helsinki. I studied English for two years before changing my major to my current one. I also study computer science as my minor. My main interests in the field of linguistics are Natural Language Processing and semantics. Currently, I'm writing my BA thesis about detection of deceptive language. My thesis will be focusing on emotion words and how their usage differs in deceptive and truthful language.
 
-I'm 22 years old and I live in Helsinki. Two of my main hobbies are video games (especially MOBAs and digital card games) and wildlife photography.
+I'm 22 years old and I live in Helsinki. My hobbies include video games (especially MOBAs and digital card games), birdwatching and wildlife photography.
 
 ## Find me on
 
@@ -15,7 +15,7 @@ I'm 22 years old and I live in Helsinki. Two of my main hobbies are video games 
 
 ## Contact
 
-My email address is jussi-veikka.hynynen@helsinki.fi. 
+My email address is jussi-veikka.hynynen@helsinki.fi.
 
 ## Courses I've Taken
 
@@ -43,11 +43,19 @@ Linguistics, Basic Studies (30 credits), Fall 2019 - Spring 2020
 
 [Basics of Statistics and R I](https://courses.helsinki.fi/en/mat12001), Summer 2020
 
-[Data Structures and Algorithms I(https://courses.helsinki.fi/en/bscs1003), Fall 2020
+[Data Structures and Algorithms I](https://courses.helsinki.fi/en/bscs1003), Fall 2020
 
 ## Projects
 
-[](https://github.com/jvhy/cmdline-course)
+[Corpus processing project](https://github.com/jvhy/cmdline-course)  
+In this project, we used make to run text processing scripts for a collection of books. The scripts were used to remove metadata, convert the original text files to sentence per line format and create a frequency list of the words in each book.
 
-## Misc. 
+[Predicting English Pronunciation](https://github.com/jvhy/pronunciation_prediction)  
+This project was done as a part of the Machine Learning for Linguists-course. I trained a HMM tagger to predict English pronunciation based on written word forms.
 
+
+## Misc.
+
+Here's a picture I took in January 2020:  
+
+<img src="./assets/images/birb.jpg" alt="birb" title="Flying floof" width="600"/>
